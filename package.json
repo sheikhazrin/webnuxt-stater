@@ -14,5 +14,7 @@
     "isomorphic-unfetch": "^3.0.0",
     "nuxt": "^2.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "serialize-javascript": ">=3.1.0"
+  }
 }
